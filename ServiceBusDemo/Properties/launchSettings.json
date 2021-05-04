@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ServiceBusDemo": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "KEY_VAULT_NAME": "lil-key-vault"
+      }
+    }
+  }
+}
